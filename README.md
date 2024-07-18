@@ -8,5 +8,7 @@
 - Initializiation of Services
 - Field Farming 
 - Auto Dispenser, Auto Boost
+- [⚠️] Anti Data Reset Prevention 
+
 
 
